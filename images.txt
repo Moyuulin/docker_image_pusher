@@ -1,2 +1,2 @@
-moyuu/node:18-alpine
-moyuu/nginx
+node:18-alpine
+nginx
