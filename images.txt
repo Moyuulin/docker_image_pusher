@@ -1,2 +1,2 @@
 node:18-alpine
-nginx
+nginx:1.21.6
